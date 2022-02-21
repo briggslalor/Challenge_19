@@ -1,7 +1,7 @@
 # Challenge_19
 Fintech Finder - Find, Hire and Pay using the Ethereum Blockchain
 
-The goal of this project was to build a web application that would allow you to find and hire a fintech professional and then pay them through the Ethereum blockchain. In order to do this, the project uses a locally generated instance of the Ethereum blockchain generate through the Ganache application. Then, using streamlit, a web application is run which allows a user to browse professionals, select one to hire and for how long and then send the necessary transaction.
+The goal of this project was to build a web application that would allow you to find and hire a fintech professional and then pay them through the Ethereum blockchain. In order to do this, the project uses a locally generated instance of the Ethereum blockchain generated using the Ganache application. Then, using Streamlit, a web application is built and run, allowing a user to browse professionals, select one to hire and for how long and then send the necessary funds in a transaction.
 
 ---
 
